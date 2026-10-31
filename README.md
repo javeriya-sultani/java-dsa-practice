@@ -13,7 +13,7 @@ DSA problems, and coding exercises.
 - Variables and Data Types
 - Conditional Statements
 - Loops
-- Number-based programs
+- Functions
 - Arrays
 
 
