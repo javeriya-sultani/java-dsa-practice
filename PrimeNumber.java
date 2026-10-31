@@ -10,6 +10,7 @@ public class PrimeNumber{
             for(int i = 2; i <= n-1; i++){    // prime: n divisible by 1 and itself; hence i=2
               if(n % i == 0){
                 isPrime = false;
+                break;
               }
             }
         }
